@@ -1,6 +1,11 @@
 # CS Basics
 
-- 자료구조/알고리즘
-- OS/컴퓨터구조
-- 네트워크/보안
-- 언어 기초
+## 카테고리
+
+- data-structures
+- computer-architecture
+- os
+- network
+- security
+- programming-languages
+- coding-practice
