@@ -9,3 +9,8 @@
 - vue: Vue 개요/반응성/최적화
 - testing: FE 테스트, MSW
 - web-essentials: SEO, 라우팅, 데이터 전송 등
+
+## 이름/슬러그 규칙
+
+- 소문자 영문-하이픈 조합 권장 (예: `browser-basics.md`, `react-rendering-overview.md`)
+- 중복 주제는 canonical 파일로 병합 후 `Merged from ...` 섹션 추가

@@ -23,9 +23,14 @@
 
 ## 상위 카테고리 README
 
-- [frontend/](frontend/README.md)
-- [backend/](backend/README.md)
-- [cs-basics/](cs-basics/README.md)
-- [process/](process/README.md)
-- [tools/](tools/README.md)
-- [glossary/](glossary/README.md)
+- [frontend/](frontend/README.md): 브라우저/HTML/CSS, 렌더링, React/Next.js/Vue, 상태관리, 테스트, 웹 기초
+- [backend/](backend/README.md): FastAPI, 데이터 처리/캐싱, DB, 네트워크, 인프라
+- [cs-basics/](cs-basics/README.md): 자료구조, OS, 컴퓨터구조, 네트워크, 보안, 언어 기초, 코딩연습
+- [process/](process/README.md): 개발 방법론, 브랜치 전략
+- [tools/](tools/README.md): 번들러/모노레포/보일러플레이트, IDE 등
+- [glossary/](glossary/README.md): 용어 정리
+
+## 도구
+
+- Markdown lint: `.markdownlint.json`
+- 링크 검사 설정: `.markdown-link-check.json` (markdown-link-check 사용 시)

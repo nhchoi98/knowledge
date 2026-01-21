@@ -7,3 +7,7 @@
 - database: DB 기초
 - network: HTTP/REST/OpenAPI 등
 - infra: Docker/Kubernetes
+
+## 이름/슬러그 규칙
+
+- 소문자 영문-하이픈 조합 (예: `database-basics.md`, `docker-kubernetes.md`)
