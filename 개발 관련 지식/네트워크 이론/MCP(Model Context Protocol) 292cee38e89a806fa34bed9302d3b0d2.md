@@ -1,3 +1,11 @@
+---
+title: MCP(Model Context Protocol)
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # MCP(Model Context Protocol)
 
 - **정의:** LLM(예: ChatGPT, Claude)을 **외부 데이터·툴**(DB, 파일, SaaS API 등)과 **표준 방식**으로 연결하는 오픈 프로토콜. “AI용 USB-C” 비유가 자주 쓰임. [Model Context Protocol+1](https://modelcontextprotocol.io/?utm_source=chatgpt.com)

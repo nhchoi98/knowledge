@@ -1,0 +1,15 @@
+name: Markdown Link Check
+
+on:
+  workflow_dispatch:
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install markdown-link-check
+        run: npm install -g markdown-link-check
+      - name: Run link check
+        run: |
+          find . -name "*.md" -print0 | xargs -0 -n1 markdown-link-check -c .markdown-link-check.json

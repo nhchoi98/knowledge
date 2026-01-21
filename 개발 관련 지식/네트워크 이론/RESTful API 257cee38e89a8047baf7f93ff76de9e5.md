@@ -1,3 +1,11 @@
+---
+title: RESTful API
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # RESTful API
 
 # 권장되는 RESTFul API 설계

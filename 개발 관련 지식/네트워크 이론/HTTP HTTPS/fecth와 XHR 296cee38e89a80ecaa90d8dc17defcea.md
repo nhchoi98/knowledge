@@ -1,3 +1,11 @@
+---
+title: fecth와 XHR
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # fecth와 XHR
 
 | 항목 | `fetch` | `XMLHttpRequest(XHR)` |
