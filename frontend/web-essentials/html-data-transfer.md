@@ -6,50 +6,27 @@ updated: ""
 source: ""
 status: draft
 ---
-# 데이터 전송
+# 데이터 전송 (HTML 폼 & Fetch)
 
-## Multipart란?
+## 전송 방식
+- `application/x-www-form-urlencoded`: 기본 폼(텍스트/소규모 데이터)
+- `multipart/form-data`: 파일 업로드, 텍스트+바이너리 혼합
+- `application/json`: API 호출 시 Fetch로 사용
 
-HTTP 요청 본문(body)을 **여러 파트로 나눠서 전송**하는 방식이에요. 주로 `multipart/form-data` 형태로 파일 업로드에 사용됩니다.
+## FormData/Multipart 핵심
+- boundary는 브라우저가 자동 생성
+- 각 파트는 개별 `Content-Type` 가질 수 있음
+- 파일 입력은 `<input type="file" multiple>` + `formData.append('file', file)`
 
-## 왜 필요한가?
-
-일반 폼 데이터는 이렇게 전송돼요:
-
-```jsx
-name=홍길동&age=25
+```js
+const fd = new FormData();
+fd.append('username', 'hong');
+fd.append('avatar', fileInput.files[0]);
+await fetch('/upload', { method: 'POST', body: fd });
 ```
 
-하지만 파일은 바이너리 데이터라서 이 방식으로는 못 보내요. 그래서 각 데이터를 **구분선(boundary)**으로 나눠서 보내는 게 multipart입니다.
-
-```jsx
-POST /upload HTTP/1.1
-Content-Type: multipart/form-data; boundary=----WebKitFormBoundary7MA4YWxk
-
-------WebKitFormBoundary7MA4YWxk
-Content-Disposition: form-data; name="username"
-
-홍길동
-------WebKitFormBoundary7MA4YWxk
-Content-Disposition: form-data; name="file"; filename="photo.jpg"
-Content-Type: image/jpeg
-
-(여기에 바이너리 데이터...)
-------WebKitFormBoundary7MA4YWxk--
-```
-
-## 핵심 포인트
-
-- **boundary**: 각 파트를 구분하는 고유한 문자열
-- 각 파트마다 자신만의 Content-Type을 가질 수 있음
-- 텍스트와 바이너리를 한 요청에 섞어서 보낼 수 있음
-
-## FormData와의 관계
-
-```jsx
-const formData = new FormData();
-formData.append('username', '홍길동');
-formData.append('file', fileInput.files[0]);
-
-fetch('/upload', { method: 'POST', body: formData });
-```
+## 모범 사례
+- 파일 업로드는 `multipart/form-data`, JSON API는 `application/json`
+- CSRF 고려: 쿠키 인증 시 토큰/헤더 포함
+- 대용량 업로드: 파일 크기 제한, 진행 상태/취소(AbortController) 제공
+- 민감 정보는 GET 쿼리스트링에 넣지 않기
