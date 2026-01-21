@@ -1,3 +1,11 @@
+---
+title: Python
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # Python
 
 # 가상환경(venv) 만들기

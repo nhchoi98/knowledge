@@ -1,3 +1,11 @@
+---
+title: Typescript
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # Typescript
 
 ## TypeScript를 도입하는 이유는 무엇인가요?

@@ -1,3 +1,11 @@
+---
+title: 렌더링 파이프라인
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # 렌더링 파이프라인
 
 React에서 화면이 업데이트되는 과정은 흔히 **"렌더링(Rendering)"** 한 단어로 표현되곤 하지만, 내부적으로는 **Render 단계**와 **Commit 단계**라는 두 가지 명확한 과정을 거칩니다.

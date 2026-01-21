@@ -1,3 +1,11 @@
+---
+title: Alembic
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # Alembic
 
 # DB 처음 연결할 때

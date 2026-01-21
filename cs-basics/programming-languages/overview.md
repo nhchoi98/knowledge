@@ -1,3 +1,11 @@
+---
+title: 프로그래밍 언어
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # 프로그래밍 언어
 
 # 기초 용어

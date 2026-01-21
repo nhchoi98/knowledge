@@ -1,3 +1,11 @@
+---
+title: Pydantic
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # Pydantic
 
 # 핵심 키워드

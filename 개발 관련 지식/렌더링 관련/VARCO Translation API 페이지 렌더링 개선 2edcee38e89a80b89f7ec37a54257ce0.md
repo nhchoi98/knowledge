@@ -1,3 +1,11 @@
+---
+title: VARCO Translation API 페이지 렌더링 개선
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # VARCO Translation API 페이지 렌더링 개선
 
 개선 지표: FCP, LCP 

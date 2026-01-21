@@ -1,3 +1,11 @@
+---
+title: FastAPI
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # FastAPI
 
 # 핵심 키워드

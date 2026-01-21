@@ -1,3 +1,11 @@
+---
+title: tanstack query
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # tanstack query
 
 # useMutation

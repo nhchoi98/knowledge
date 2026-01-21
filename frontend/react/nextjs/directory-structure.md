@@ -1,3 +1,11 @@
+---
+title: 디렉토리 구조 예시
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # 디렉토리 구조 예시
 
 ```jsx

@@ -1,3 +1,11 @@
+---
+title: Javascript
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # Javascript
 
 ## ECMAScript

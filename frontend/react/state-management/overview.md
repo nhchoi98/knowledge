@@ -1,3 +1,11 @@
+---
+title: 상태관리
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # 상태관리
 
 # Redux

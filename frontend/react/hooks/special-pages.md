@@ -1,3 +1,11 @@
+---
+title: 특수 페이지들
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # 특수 페이지들
 
 _error.tsx, 404.tsx, 500.tsx, _document.tsx

@@ -1,3 +1,11 @@
+---
+title: CSR
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # CSR
 
 ## TTI (Time To Interactive)

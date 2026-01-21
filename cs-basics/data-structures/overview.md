@@ -1,3 +1,11 @@
+---
+title: 자료구조 (Data structure)
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # 자료구조 (Data structure)
 
 # 트리

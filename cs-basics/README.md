@@ -1,3 +1,11 @@
+---
+title: CS Basics
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # CS Basics
 
 ## 카테고리

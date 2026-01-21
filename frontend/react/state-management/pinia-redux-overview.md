@@ -1,3 +1,11 @@
+---
+title: 상태관리 (Pinia, Redux)
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # 상태관리 (Pinia, Redux)
 
 # 사용 이유

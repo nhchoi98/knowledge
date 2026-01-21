@@ -1,3 +1,11 @@
+---
+title: 데이터베이스
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # 데이터베이스
 
 # RDBMS

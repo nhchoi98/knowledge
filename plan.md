@@ -1,3 +1,11 @@
+---
+title: Plan
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 ## Plan
 
 - [ ] Inventory existing markdown files and decide new category mapping with canonical slugs.

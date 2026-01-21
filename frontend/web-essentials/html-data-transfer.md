@@ -1,3 +1,11 @@
+---
+title: 데이터 전송
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # 데이터 전송
 
 ## Multipart란?

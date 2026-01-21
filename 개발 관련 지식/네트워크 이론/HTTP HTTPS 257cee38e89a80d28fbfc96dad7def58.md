@@ -1,3 +1,11 @@
+---
+title: HTTP/HTTPS
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # HTTP/HTTPS
 
 ## 📌 기초 질문

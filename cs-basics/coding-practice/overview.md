@@ -1,3 +1,11 @@
+---
+title: 코딩테스트 준비
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # 코딩테스트 준비
 
 [https://fern-freeze-290.notion.site/38-2025-3c6c9b4b2ccd4250b649762e12fc64e0](https://www.notion.so/3c6c9b4b2ccd4250b649762e12fc64e0?pvs=21)

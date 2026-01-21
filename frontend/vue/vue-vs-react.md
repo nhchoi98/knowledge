@@ -1,3 +1,11 @@
+---
+title: Vue와 비교
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # Vue와 비교
 
 # Vue ↔ React 핵심 비교 (요약)

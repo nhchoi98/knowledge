@@ -1,3 +1,11 @@
+---
+title: iframe
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # iframe
 
 `<iframe>`은 독립된 브라우저 컨텍스트(즉, 별도의 문서/윈도우)를 만들기 때문에, **부모 문서와 직접적으로는 완전히 섞이지 않습니다.**

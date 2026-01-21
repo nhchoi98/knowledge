@@ -1,3 +1,11 @@
+---
+title: 잡다 용어
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # 잡다 용어
 
 ## 프로그래밍에서의 Mutation (Mutation in Programming)

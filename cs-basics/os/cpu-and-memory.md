@@ -1,3 +1,11 @@
+---
+title: CPU와 메모리
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # CPU와 메모리
 
 # CPU 기본 구성

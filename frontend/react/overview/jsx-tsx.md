@@ -1,3 +1,11 @@
+---
+title: JSX와 TSX, 그리고 React와의 관계
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # JSX와 TSX, 그리고 React와의 관계
 
 # JSX란?

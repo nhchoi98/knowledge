@@ -1,3 +1,11 @@
+---
+title: Application lock
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # Application lock
 
 ### ⚙️ 애플리케이션 락의 작동 원리

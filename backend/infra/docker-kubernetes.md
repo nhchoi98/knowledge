@@ -1,3 +1,11 @@
+---
+title: Docker, Kubernates
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # Docker, Kubernates
 
 **Dockerfile**은 “컨테이너 이미지 만드는 레시피(빌드 스크립트)”고,

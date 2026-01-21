@@ -1,3 +1,11 @@
+---
+title: 운영체제(OS)
+tags: []
+created: ""
+updated: ""
+source: ""
+status: draft
+---
 # 운영체제(OS)
 
 # 운영체제란?
