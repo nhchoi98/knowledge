@@ -14,3 +14,8 @@
 
 - 소문자 영문-하이픈 조합 권장 (예: `browser-basics.md`, `react-rendering-overview.md`)
 - 중복 주제는 canonical 파일로 병합 후 `Merged from ...` 섹션 추가
+
+## 내부 링크
+
+- 동일 카테고리 내: `./subdir/file.md`
+- 다른 카테고리: `../<category>/.../file.md`

@@ -11,3 +11,8 @@
 ## 이름/슬러그 규칙
 
 - 소문자 영문-하이픈 조합 (예: `database-basics.md`, `docker-kubernetes.md`)
+
+## 내부 링크
+
+- 동일 카테고리 내: `./subdir/file.md`
+- 다른 카테고리: `../<category>/.../file.md`
