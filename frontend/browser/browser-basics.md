@@ -51,3 +51,10 @@ Broadcast Channel API와 웹소켓은 **완전히 다른 목적**을 가진 기�
 - 서버가 필수
 - 서버를 통해 다른 사용자들과 통신 가능
 - 네트워크를 통한 실시간 양방향 통신
+
+---
+## Merged from 개발 관련 지식/웹 브라우저 2efcee38e89a8073813dde1e7469ce69.md
+
+# 웹 브라우저
+
+[Web platform interface ](%EC%9B%B9%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80/Web%20platform%20interface%202efcee38e89a803f96c0f8abc6454eaa.md)
